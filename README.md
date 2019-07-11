@@ -4,3 +4,8 @@
 
 项目数据库设计：  
 ---  
+![Image text](https://github.com/JunhaoCheng/Management-System-Spring-Mybatis-/blob/master/数据库设计.png)  
+
+项目演示视屏：  
+---  
+
